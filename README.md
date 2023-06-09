@@ -1,3 +1,3 @@
 # tetris-game
 
-# a simple 
+# a simple tetris game created using python
